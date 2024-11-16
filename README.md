@@ -1,1 +1,0 @@
-# setting_up_android_environment_for_mac_with_zsh
